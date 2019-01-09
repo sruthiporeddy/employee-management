@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="card-deck">
+        <div *ngFor = "let employee of employees | paginate: { itemsPerPage: 4, currentPage: p }">
+          <div class="card mTB20">
+            <img class="card-img-top" src="../../assets/images/{{employee.image}}" alt="Card image">
+            <div class="card-body">
+              <h4 class="card-title">{{employee.firstname}}</h4>
+              <p class="card-text">{{employee.role}}</p>
+              <a href="#" class="btn btn-primary">See Profile</a>
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="page" style="margin-bottom: 100px">
+        <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    </div>
+
+</div>
+
+

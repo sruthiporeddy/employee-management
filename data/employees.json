@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Will",
+    "age": 32,
+    "gender":"Male",
+    "role": "Developer",
+    "image": "../../assets/images/img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 2,
+    "firstname": "Paul",
+    "lastname": "Marker",
+    "age": 30,
+    "gender":"Male",
+    "role": "Architect",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "345 Cedar Point Ave",
+      "city": "San jose",
+      "state": "CA",
+      "pin":15320
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "WIEYWUY","projectCode":"WIEYWUY"},
+      {"projectName": "XOXO","projectCode":"XOXO"}
+    ]
+
+  },
+  {
+    "id": 3,
+    "firstname": "Micheal",
+    "lastname": "Richard",
+    "age": 35,
+    "gender":"Male",
+    "role": "Manager",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "31822 Long Bay Dr2A",
+      "city": "Seattle",
+      "state": "WA",
+      "pin":12120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "EQUYTUYETR","projectCode":"EQUYT"}
+    ]
+
+  },
+  {
+    "id": 4,
+    "firstname": "August",
+    "lastname": "Bishop",
+    "age": 30,
+    "gender":"Female",
+    "role": "Functional Architect",
+    "image": "img_avatar2.png",
+    "address" : {
+      "houseNo": "79455 Pinetop Way",
+      "city": "Chandler",
+      "state": "Az",
+      "pin":13420
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "WQEYTYEQRTRE","projectCode":"WQEYTY"}
+
+    ]
+
+  },
+  {
+    "id": 5,
+    "firstname": "Mark",
+    "lastname": "Adam",
+    "age": 32,
+    "gender":"Male",
+    "role": "Database Admin",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 6,
+    "firstname": "Johnson",
+    "lastname": "Garry",
+    "age": 32,
+    "gender":"Male",
+    "role": "Developer",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 7,
+    "firstname": "Tina",
+    "lastname": "Smith",
+    "age": 32,
+    "gender":"Female",
+    "role": "Developer",
+    "image": "img_avatar2.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 8,
+    "firstname": "Igor",
+    "lastname": "Wan",
+    "age": 32,
+    "gender":"Male",
+    "role": "Developer",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 9,
+    "firstname": "Summer",
+    "lastname": "Wahlin",
+    "age": 32,
+    "gender":"Female",
+    "role": "Developer",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 10,
+    "firstname": "John",
+    "lastname": "Papa",
+    "age": 32,
+    "gender":"Male",
+    "role": "Developer",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  },
+  {
+    "id": 11,
+    "firstname": "Ward",
+    "lastname": "Bell",
+    "age": 32,
+    "gender":"Male",
+    "role": "Developer",
+    "image": "img_avatar1.png",
+    "address" : {
+      "houseNo": "32A",
+      "city": "Philadelphia",
+      "state": "PA",
+      "pin":15120
+    },
+
+    "projectsWorkingIn": [
+      {"projectName": "Online Employee Portal","projectCode":"PRTONL"},
+      {"projectName": "Contact management","projectCode":"CNTMT"}
+    ]
+
+  }
+]
